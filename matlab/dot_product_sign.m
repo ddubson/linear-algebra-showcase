@@ -1,3 +1,5 @@
+% Algebraic interpretation of orthogonality (vectors are at 90 degrees to each other)
+
 % Generate two vectors 
 v1 = [ -3 4 5]';
 v2 = [ 3 6 -3]';
