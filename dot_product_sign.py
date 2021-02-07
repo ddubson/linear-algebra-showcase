@@ -18,3 +18,6 @@ dp2 = np.dot(v1 * s1, v2 * s2)
 
 print(f"Original dot product: {dp1}")
 print(f"Scaled dot product:   {dp2}")
+
+# If two vectors are not orthogonal, then scaling a vector has an affect
+# on the sign of the dot product, disproving "invariance" of scaling
